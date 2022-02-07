@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+body {
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+    /* Change the display to block in the next class(class 132) */
+    display: block;
+    font-size: 18px;
+}
+
+canvas {
+    border: 1px solid black;
+    margin-top: 91px;
+}
