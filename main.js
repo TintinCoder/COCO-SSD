@@ -2,7 +2,7 @@ let img = '';
 let status = false;
 let object = [];
 function preload(){
-    img = loadImage('./images/background.jpg');
+    img = loadImage('./images/laptop.jpg');
 }
 
 function setup(){
